@@ -16,7 +16,7 @@ namespace AppModel {
                 property int Level;
 
                 Customer() {}
-                Customer(String^firstName, String^lastName,String^ubication,
+                Customer(String^firstName, String^lastName,String^ubication, //blabla
                     String^phoneNumber,int customerpoints, int level);
     };
 }

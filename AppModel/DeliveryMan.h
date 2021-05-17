@@ -16,7 +16,7 @@ namespace AppModel {
         property char Status;
         property array<Byte>^ Photo;
         property bool Avaliable;
-        property StoreBranch^ StoreBranch;
+        property StoreBranch^ StoreBranch; //123
 
 
         DeliveryMan() {}
